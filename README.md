@@ -1,4 +1,4 @@
-selenium | JUnit 4 - cadastro_usuarios
+# selenium | JUnit 4 - Gerenciamento de contas bancarias
 Projeto com a utilização de Selenium WebDriver para automatização de teste de cadastro de usuário em um página HTML local.
 
 Interação com os seguintes elementos:
